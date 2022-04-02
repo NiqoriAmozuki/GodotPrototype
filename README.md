@@ -1,1 +1,4 @@
 # GodotPrototype
+
+#SEBENARNYA INI GK ADA DISURUH SIH...
+DAH GITU AJA
